@@ -1,0 +1,2 @@
+USE lpg_db;
+SHOW TABLES;
